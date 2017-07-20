@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib for NMS_SSH">
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/jta.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/ognl-3.0.1.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/antlr-2.7.7.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/dom4j-1.6.1.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/commons-io-2.0.1.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/commons-lang-2.5.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/xwork-core-2.2.3.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/cglib-nodep-2.1_3.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/freemarker-2.3.16.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/ehcache-core-2.4.3.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/struts2-core-2.2.3.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/javassist-3.11.0.GA.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/javassist-3.15.0-GA.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/commons-logging-1.1.1.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/jboss-logging-3.1.0.CR2.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/commons-fileupload-1.2.2.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/commons-collections-3.2.1.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/hibernate-core-4.0.1.Final.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/jboss-transaction-api-1.0.1.GA.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/mysql-connector-java-5.1.5-bin.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+    <archive path="D:/JavaEE Framework/lib for NMS_SSH/hibernate-commons-annotations-4.0.1.Final.jar" />
+  </library>
+  <library name="aopalliance-1.0">
+    <archive path="D:/JavaEE Framework/aopalliance-1.0.jar" />
+  </library>
+  <library name="commons-logging-1.2">
+    <archive path="D:/JavaEE Framework/commons-logging-1.2/commons-logging-1.2/commons-logging-1.2.jar" />
+  </library>
+  <library name="mysql-connector-java-5.1.40-bin">
+    <archive path="D:/JavaEE Framework/MySQL-Connector-Java-5.1.40/mysql-connector-java-5.1.40-bin.jar" />
+  </library>
+  <library name="spring-framework-3.2.18.RELEASE">
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-tx-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-aop-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-jms-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-orm-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-oxm-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-web-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-core-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-jdbc-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-test-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-beans-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-struts-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-webmvc-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-aspects-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-context-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-expression-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-instrument-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-tx-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-tx-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-aop-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-aop-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-jms-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-jms-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-orm-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-orm-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-oxm-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-oxm-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-web-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-web-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-core-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-core-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-jdbc-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-jdbc-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-test-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-test-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-beans-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-beans-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-struts-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-struts-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-webmvc-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-webmvc-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-webmvc-portlet-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-aspects-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-aspects-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-context-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-context-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-context-support-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-instrument-tomcat-3.2.18.RELEASE.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-expression-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-expression-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-instrument-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-instrument-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-webmvc-portlet-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-webmvc-portlet-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-context-support-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-context-support-3.2.18.RELEASE-sources.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-instrument-tomcat-3.2.18.RELEASE-javadoc.jar" />
+    <archive path="D:/JavaEE Framework/spring-framework-3.2.18.RELEASE/libs/spring-instrument-tomcat-3.2.18.RELEASE-sources.jar" />
+  </library>
+  <library name="struts2-framework-2.3.31">
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/asm-3.3.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/asm-commons-3.3.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/asm-tree-3.3.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/commons-fileupload-1.3.2.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/commons-io-2.2.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/commons-lang3-3.2.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/freemarker-2.3.22.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/javassist-3.11.0.GA.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/ognl-3.0.19.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/struts2-core-2.3.31.jar" />
+    <archive path="D:/JavaEE Framework/struts-2.3.31-all/struts-2.3.31/lib/xwork-core-2.3.31.jar" />
+  </library>
+</eclipse-userlibraries>
+

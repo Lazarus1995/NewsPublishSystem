@@ -1,0 +1,69 @@
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.1.7//EN"
+        "http://struts.apache.org/dtds/struts-2.1.7.dtd">
+
+<struts>
+    <constant name="struts.i18n.encoding" value="gb2312"/>
+    <package name="default" extends="struts-default" namespace="/">
+        <action name="news" class="com.mxl.actions.NewsAction">
+            <result name="main">/backgroundPages/managePages/news.jsp</result>
+            <result name="details">/backgroundPages/detailPages/details_news.jsp</result>
+            <result name="update">/backgroundPages/updatePages/update_news.jsp</result>
+            <result type="redirectAction">
+                <param name="actionName">news</param>
+                <param name="namespace">/</param>
+                <param name="topId">${#session.topId}</param>
+                <param name="pageNo">${pageNo}</param>
+            </result>
+            <result name="addInput">/backgroundPages/inputPages/input_news.jsp</result>
+        </action>
+
+        <action name="category" class="com.mxl.actions.CategoryAction">
+            <result name="clist">/backgroundPages/managePages/category_list.jsp</result>
+            <result name="addInput">/backgroundPages/inputPages/input_category.jsp</result>
+            <result name="updateInput">/backgroundPages/updatePages/update_category.jsp</result>
+            <result type="redirectAction">
+                <param name="actionName">category</param>
+                <param name="namespace">/</param>
+                <param name="category.topId">${#session.topId}</param>
+            </result>
+
+        </action>
+
+        <action name="affiche" class="com.mxl.actions.AFAction">
+            <result name="main">/backgroundPages/managePages/affiches.jsp</result>
+            <result name="details">/backgroundPages/detailPages/details_affiche.jsp</result>
+            <result name="addInput">/backgroundPages/inputPages/input_affiche.jsp</result>
+            <result name="update">/backgroundPages/updatePages/update_affiche.jsp</result>
+            <result type="redirectAction">
+                <param name="actionName">affiche</param>
+                <param name="namespace">/</param>
+                <param name="sign">${#session.sign}</param>
+            </result>
+        </action>
+
+        <action name="manager" class="com.mxl.actions.ManagerAction">
+            <result name="input">/login.jsp</result>
+            <result name="login">/login.jsp</result>
+            <result name="showLogin">/show_login.jsp</result>
+            <result name="main">/backgroundPages/layoutPages/main.html</result>
+            <result name="userList">/backgroundPages/managePages/managers.jsp</result>
+            <result name="addInput">/backgroundPages/inputPages/input_manager.jsp</result>
+            <result name="updateInput">/backgroundPages/updatePages/update_manager.jsp</result>
+            <result name="updatePwd">/backgroundPages/updatePages/update_manager_pwd.jsp</result>
+            <result name="updateLogin">/backgroundPages/updatePages/update_manager_login.jsp</result>
+            <result type="redirectAction">
+                <param name="actionName">manager</param>
+                <param name="namespace">/</param>
+            </result>
+        </action>
+
+        <action name="index" class="com.mxl.actions.IndexAction">
+            <result name="index">/foregroundPages/index.jsp</result>
+            <result name="index_newsList">/foregroundPages/index_news.jsp</result>
+            <result name="index_news">/foregroundPages/index_details.jsp</result>
+            <result name="index_af">/foregroundPages/index_afnews.jsp</result>
+            <result name="more">/foregroundPages/index_allnews.jsp</result>
+        </action>
+    </package>
+</struts>

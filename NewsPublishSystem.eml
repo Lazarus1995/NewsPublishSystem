@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/NewsPublishSystem"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 7.0.39" scope="PROVIDED"/>
+	<levels>
+		<level name="lib for NMS_SSH" value="project"/>
+		<level name="Tomcat 7.0.39" value="application_server_libraries"/>
+	</levels>
+</component>
